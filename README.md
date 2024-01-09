@@ -9,6 +9,9 @@ This repo is dedicated to some easy level problems. Each problem has its own dir
 2. Exponentiation of 2
 3. Count letters & digits in a string
 4. Add White space before capital letters
+5. Sorting tuples inside a list
+6. Counting the number of characters in string using dictionary
+7. Armstrong number
 
 
 
