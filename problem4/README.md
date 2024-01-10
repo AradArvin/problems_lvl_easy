@@ -11,11 +11,11 @@ Take an input string from user and return the string with white spaces before ca
 
 **Examples:**
 
-- input = "TheFirstLetter"
-- output = "The First Letter" 
+1. input = "TheFirstLetter"
+    - output = "The First Letter" 
 
-- input = "NeverLetMeGo"
-- output = "Never Let Me Go"
+2. input = "NeverLetMeGo"
+    - output = "Never Let Me Go"
 
 
 ## Solution:
