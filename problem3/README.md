@@ -10,13 +10,13 @@ Take an input string from user and return the amount of letters and digits in th
 
 **Examples:**
 
-String = "Python 3.12.1"
-Digits = 4
-Letters = 6
+- String = "Python 3.12.1"
+- Digits = 4
+- Letters = 6
 
-String = "through 8707 program"
-Digits = 4
-Letters = 14
+- String = "through 8707 program"
+- Digits = 4
+- Letters = 14
 
 
 ## Solution:

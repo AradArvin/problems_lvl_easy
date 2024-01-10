@@ -10,11 +10,11 @@ We have a list of tuples and we want to sort this list by the last element of tu
 
 **Examples:**
 
-list_of_tuples = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
-expcted_output = [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)]
+- list_of_tuples = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+- expcted_output = [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)]
 
-list_of_tuples = [(3, 8), (10, 25), (5, 4), (12, 7), (15, 9)]
-expcted_output = [(5, 4), (12, 7), (3, 8), (15, 9), (10, 25)]
+- list_of_tuples = [(3, 8), (10, 25), (5, 4), (12, 7), (15, 9)]
+- expcted_output = [(5, 4), (12, 7), (3, 8), (15, 9), (10, 25)]
 
 
 ## Solution:

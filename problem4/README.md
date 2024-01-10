@@ -11,11 +11,11 @@ Take an input string from user and return the string with white spaces before ca
 
 **Examples:**
 
-input = "TheFirstLetter"
-output = "The First Letter" 
+- input = "TheFirstLetter"
+- output = "The First Letter" 
 
-input = "NeverLetMeGo"
-output = "Never Let Me Go"
+- input = "NeverLetMeGo"
+- output = "Never Let Me Go"
 
 
 ## Solution:

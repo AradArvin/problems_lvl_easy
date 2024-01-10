@@ -17,11 +17,11 @@ Take an input from user and see if the number is an expo of 2. and return an str
 
 **Examples:**
 
-(2 ** n) != 7
-7 is not an expo of 2
+- (2 ** n) != 7
+- 7 is not an expo of 2
 
-(2 ** 3) == 8
-8 is an expo of 2
+- (2 ** 3) == 8
+- 8 is an expo of 2
 
 
 ## Solution:

@@ -2,11 +2,11 @@
 
 A number is armstrong when the sum of each digit to the exponentiation of the len of number is equal to the original number.
 
-153 is an armstrong number -> 1 ** 3 + 5 ** 3 + 3 ** 3 == 153
-1634 is an armstrong number -> 1 ** 4 + 6 ** 4 + 3 ** 4 + 4 ** 4 == 1634
+- 153 is an armstrong number -> 1 ** 3 + 5 ** 3 + 3 ** 3 == 153
+- 1634 is an armstrong number -> 1 ** 4 + 6 ** 4 + 3 ** 4 + 4 ** 4 == 1634
 
-200 is not an armstrong number -> 2 ** 3 + 0 ** 3 + 0 ** 3 != 200
-1562 is not an armstrong number -> 1 ** 4 + 5 ** 4 + 6 ** 4 + 2 ** 4 != 1562
+- 200 is not an armstrong number -> 2 ** 3 + 0 ** 3 + 0 ** 3 != 200
+- 1562 is not an armstrong number -> 1 ** 4 + 5 ** 4 + 6 ** 4 + 2 ** 4 != 1562
 
 
 ## Problem:
@@ -16,11 +16,11 @@ Write a generator that checks if a number is armstrong then print the result in 
 
 **Examples:**
 
-input = 153
-output = 153 is an armstrong number
+- input = 153
+- output = 153 is an armstrong number
 
-input = 200
-output = 200 is not an armstrong number
+- input = 200
+- output = 200 is not an armstrong number
 
 
 ## Solution:
@@ -42,7 +42,9 @@ def check_armstrong(number):
 The generator first takes the number as argument. (***keep in mind that the type of input() method is always str***). then the exponentiation is callculated to be the len of number. next we turn the number into a list of integers by braking the number to it's digits. here `map()` method is used to take each character of the string and turn their type to int and then `list()` is used to turn the number string into a list of it's digits. in the next line we use map again to increase each digit in the list to the power named expo. cased inside a `list()` to keep the result of `map()` as a list. and finally cased in `sum()` to get the sum of numbers in the result list. and in the end `yield` keyword is used to return a generator object.
 
 > len() -> gets the len of data sequence.
+
 > list() -> creates a list.
+
 > map() -> executes a specified function for each item in an iterable. The item is sent to the function as a parameter.
 
 

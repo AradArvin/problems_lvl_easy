@@ -11,11 +11,11 @@ Write a program which can count the number of each character in the string.
 
 **Examples:**
 
-input_string = "www.github.com"
-output = {'w': 3, '.': 2, 'g': 1, 'i': 1, 't': 1, 'h': 1, 'u': 1, 'b': 1, 'c': 1, 'o': 1, 'm': 1}
+- input_string = "www.github.com"
+- output = {'w': 3, '.': 2, 'g': 1, 'i': 1, 't': 1, 'h': 1, 'u': 1, 'b': 1, 'c': 1, 'o': 1, 'm': 1}
 
-input_string = "internationalization"
-output = {'i': 4, 'n': 4, 't': 3, 'e': 1, 'r': 1, 'a': 3, 'o': 2, 'l': 1, 'z': 1}
+- input_string = "internationalization"
+- output = {'i': 4, 'n': 4, 't': 3, 'e': 1, 'r': 1, 'a': 3, 'o': 2, 'l': 1, 'z': 1}
 
 
 ## Solution:

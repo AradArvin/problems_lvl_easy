@@ -11,11 +11,11 @@ Take an input from user and see if the sum of remainders of the input number is 
 
 **Examples:**
 
-(1+3+9) != 27 
-27 is not a perfect number therefor the answer is `No`
+- (1+3+9) != 27 
+- 27 is not a perfect number therefor the answer is `No`
 
-(1+2+3) == 6
-6 is a perfect number therefor the answer is `Yes`
+- (1+2+3) == 6
+- 6 is a perfect number therefor the answer is `Yes`
 
 
 ## Solution:
