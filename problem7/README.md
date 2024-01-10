@@ -16,11 +16,11 @@ Write a generator that checks if a number is armstrong then print the result in 
 
 **Examples:**
 
-- input = 153
-- output = 153 is an armstrong number
+1. input = 153
+    - output = 153 is an armstrong number
 
-- input = 200
-- output = 200 is not an armstrong number
+2. input = 200
+    - output = 200 is not an armstrong number
 
 
 ## Solution:
