@@ -29,7 +29,7 @@ To solve this problem we need to work with generators.
 
 - A Generator is a function that returns an iterator using the Yield keyword.
 - The output of the generator function is a generator object.
-- In order to see the result of generator we need to pass the generator to next() method.
+- In order to see the result of generator we need to pass the generator to next() method. or use a for loop.
 
 ```bash
 def check_armstrong(number):
@@ -70,9 +70,9 @@ else:
 
 **Please keep in mind that each problem can be solved in many ways. with that being said the recursive function approach is included in the problem directory as well.**
 
-link to solution file:
-[Armstrong number generator solution](armstrong_generator.py)
-[Armstrong number recursive solution](armstrong_recursive.py)
+link to solution files:
+- [Armstrong number generator solution](armstrong_generator.py)
+- [Armstrong number recursive solution](armstrong_recursive.py)
 
 
 ## Tests:
